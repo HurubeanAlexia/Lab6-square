@@ -1,0 +1,6 @@
+﻿  Patrat.cpp
+C:\Users\Dodo\Desktop\Lab6\Patrat.cpp(20,15): error C2039: 'getNumar': is not a member of 'Patrat'
+C:\Users\Dodo\Desktop\Lab6\Patrat.h(10): message : see declaration of 'Patrat'
+C:\Users\Dodo\Desktop\Lab6\Patrat.cpp(22,9): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+  UI.cpp
+  Generating Code...
